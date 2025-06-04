@@ -1,0 +1,9 @@
+"C:\Program Files\JetBrains\CLion 2023.2.2\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains/CLion 2023.2.2/bin/ninja/win/x64/ninja.exe" -G Ninja -S C:\Users\daria\OneDrive\Desktop\untitled -B C:\Users\daria\OneDrive\Desktop\untitled\cmake-build-debug
+-- OpenCV ARCH: x64
+-- OpenCV RUNTIME: vc16
+-- OpenCV STATIC: OFF
+-- Found OpenCV 4.11.0 in C:/opencv/opencv/build/x64/vc16/lib
+-- You might need to add C:\opencv\opencv\build\x64\vc16\bin to your PATH to be able to run your applications.
+-- Configuring done (0.1s)
+-- Generating done (0.1s)
+-- Build files have been written to: C:/Users/daria/OneDrive/Desktop/untitled/cmake-build-debug
